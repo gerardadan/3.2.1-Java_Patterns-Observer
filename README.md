@@ -1,8 +1,4 @@
-Gracias por la captura. Con base en la estructura que me has mostrado, actualizo el README para reflejar los nombres de clases reales que usas en el proyecto:
-
----
-
-# Readme for Exercise: Observer – Stock Market Notification System
+# Stock Market Notification System
 
 ## 📄 Description
 
